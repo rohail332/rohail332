@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rohail332&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://printsyntax.github.io)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rohail332.github.io/portfolio-website/)
 
 - 📝 I regularly write articles on [Print Syntax](https://printsyntax.com)
 
