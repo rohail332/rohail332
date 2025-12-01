@@ -59,6 +59,7 @@ const rohail = {
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=for-the-badge&logoColor=white&labelColor=%23E4405F)](https://rohail332.github.io/portfolio-website/)
+  [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.printsyntax.com)
   [![Freelance](https://img.shields.io/badge/Hire%20Me-%230077B5.svg?style=for-the-badge&logoColor=white&labelColor=%230077B5)](https://www.upwork.com/freelancers/~01677436ed731c69e7?mp_source=share)
   [![Contact](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=D14836)](mailto:rohailtahir332@gmail.com)
 
