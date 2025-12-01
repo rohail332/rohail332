@@ -16,12 +16,12 @@
 
 ```typescript
 const rohail = {
-  languages: ["JavaScript", "TypeScript", "PHP", "C", "C++", "Python", "Ruby"],
+  languages: ["JavaScript", "TypeScript", "PHP", "C", "C++", "Python", "Ruby", "R"],
   skills: {
-    frontend: ["HTML", "CSS", "SASS", "Tailwind", "React", "Next.js", "Driver.js"],
-    backend: ["Node.js", "ExpressJS", "PHP", "Python", "Flask", "FastAPI", "Django", "Ruby"],
+    frontend: ["HTML", "CSS", "Bootstrap", "SASS", "Tailwind", "React", "Next.js", "Redux"],
+    backend: ["Node.js", "ExpressJS", "GraphQL", "PHP", "Python", "Flask", "FastAPI", "Django", "Ruby"],
     database: ["MySQL", "MongoDB"],
-    dataScience: ["Python", "NumPy", "Pandas", "Matplotlib", "Scikit-learn", "Anaconda", "TensorFlow", "PyTorch", "Jupyter Notebook"],
+    dataScience: ["Python", "NumPy", "Pandas", "Matplotlib", "Scikit-learn", "Anaconda", "TensorFlow", "PyTorch", "Jupyter Notebook", "R", "Excel", "Power BI"],
     cloudDevOps: ["AWS", "Docker", "Git"],
     tools: ["Kali Linux", "Arduino"],
     design: ["Figma", "Photoshop"]
@@ -37,7 +37,18 @@ const rohail = {
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,php,mysql,mongodb,c,cpp,ruby,python,anaconda,tensorflow,pytorch,flask,django,aws,fastapi,arduino,git,docker,linux,ps,figma&theme=dark" alt="Tech Stack" />
+  <!-- Row 1: Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs&theme=dark" alt="Frontend" />
+  <br>
+  <!-- Row 2: Backend & APIs -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,redux,php,python,flask,django,fastapi&theme=dark" alt="Backend & APIs" />
+  <br>
+  <!-- Row 3: Database, Cloud & Languages -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,git,linux,ruby,c,cpp&theme=dark" alt="Database, Cloud & Languages" />
+  <br>
+  <!-- Row 4: Data Science & Tools -->
+  <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch,sklearn,r,arduino,ps,figma&theme=dark" alt="Data Science & Tools" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI" />
   
 </div>
 
